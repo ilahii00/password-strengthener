@@ -5,7 +5,7 @@ Password Strengthener
 A Python tool to analyze and score password strength using hashlib
 and common security heuristics.
 
-Author: Your Name
+Author: Prabhleen
 License: MIT
 """
 
@@ -252,3 +252,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
